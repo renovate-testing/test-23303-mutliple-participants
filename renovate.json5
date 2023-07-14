@@ -6,15 +6,15 @@
   "packageRules": [
     {
       "matchPaths": [
-        "project1/**"
-        "project2/**"
+        "project1/**",
+        "project2/**",
       ],
       "additionalReviewers": ["pbabbicola"],
     },
     {
       "matchPaths": [
-        "project3/**"
-        "project4/**"
+        "project3/**",
+        "project4/**",
       ],
       "additionalReviewers": ["charazer"],
     },
