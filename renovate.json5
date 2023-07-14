@@ -2,5 +2,21 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base"
-  ]
+  ],
+  "packageRules": [
+    {
+      "matchPaths": [
+        "project1/**"
+        "project2/**"
+      ],
+      "additionalReviewers": ["pbabbicola"],
+    },
+    {
+      "matchPaths": [
+        "project3/**"
+        "project4/**"
+      ],
+      "additionalReviewers": ["charazer"],
+    },
+  ],
 }
