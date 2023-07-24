@@ -16,7 +16,7 @@
         "project3/**",
         "project4/**",
       ],
-      "additionalReviewers": ["renovate-testing"],
+      "additionalReviewers": ["pbabbicola"],
     },
   ],
 }
