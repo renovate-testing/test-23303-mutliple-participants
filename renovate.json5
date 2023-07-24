@@ -9,14 +9,14 @@
         "project1/**",
         "project2/**",
       ],
-      "additionalReviewers": ["pbabbicola"],
+      "additionalReviewers": ["zharinov"],
     },
     {
       "matchPaths": [
         "project3/**",
         "project4/**",
       ],
-      "additionalReviewers": ["charazer"],
+      "additionalReviewers": ["renovate-testing"],
     },
   ],
 }
